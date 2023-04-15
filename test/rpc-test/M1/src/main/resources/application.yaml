@@ -1,0 +1,6 @@
+server:
+  port: 8081
+rpc:
+  port: 8080
+  host: localhost
+  server: true

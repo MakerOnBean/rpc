@@ -1,0 +1,4 @@
+cloud/makeronbean/test/service/HelloService.class
+cloud/makeronbean/test/TestClient.class
+cloud/makeronbean/test/service/impl/HelloServiceImpl.class
+cloud/makeronbean/test/TestServer.class
